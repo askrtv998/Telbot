@@ -1,4 +1,5 @@
 pyTelegramBotAPI
 flask
 pymysql
+psycopg2-binary
 
